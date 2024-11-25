@@ -21,3 +21,9 @@ Confira o arquivo enzo-pascal.html com link (anchor)
 Confira o arquivo enzo-pascal.css com marcação CSS para o botão
 
 [Aula como transformar links e botões com CSS] (hhtps://l.dev.pro.br/ebook-rpv-links-e-botoes-css)
+
+# Passo 4: Aula desafogando seu texto com espaçamento
+Confira o arquivo enzo-pascal.html com link (anchor)
+Confira o arquivo enzo-pascal.css com marcação CSS para o botão
+
+[Aula da multidão ao conforto: Desafogando seu texto com espaçamento CSS] (hhtps://l.dev.pro.br/aula-espacamento-de-texto)
