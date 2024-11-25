@@ -33,3 +33,9 @@ Confira o arquivo enzo-pascal.html com imagem (img)
 Confira o arquivo enzo-pascal.css com classe 'center' para centralizar imagem
 
 [Aula como inserir e centralizar imagens em uma página HTML] (https://l.dev.pro.br/como-centralizar-imagem-html)
+
+# Passo 6: Aula aquarela de cores CSS: Revelando o sistema RGB e hexadecimal
+Confira o arquivo enzo-pascal.html lista não ordenada (ul)
+Confira o arquivo enzo-pascal.css com classe 'parte2'para alterar cor de fundo (background-color)
+
+[Aula aquarela de cores com CSS: Revelando o sistema RGB e hexadecimal] (https://l.dev.pro.br/cores-no-css)
