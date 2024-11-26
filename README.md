@@ -3,6 +3,18 @@ Projeto para aprender HTML e CSS básico
 
 [Livro rumo à primeira vaga: Trilha fundamental] (https://l.dev.pro.br/ebook-rpv-trilha-fundamental)
 
+[Instale o Docker] (https://github.com/renzon/computer-init-setups/blob/main/wls2.sh#L25).
+
+Depois disso, suba a aplicação com o comando:
+
+'docker compose up -d'
+
+Acesse 'localhost' para ver se aparece a página do Nginx.
+
+Acesse 'localhost/enzo-pascal.html' para ver a página do Enzo Pascal.
+
+Pare o container com o comando 'docker compose down'
+
 # Passo 1: HTML básico com seletores de elementos
 Confira o arquivo enzopascal.html com estrutura básica de HTML
 Confira o arquivo enzopascal.html com seletores de elementos h1 e h2
