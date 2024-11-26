@@ -50,6 +50,7 @@
   letter-spacing: 2pt;
   font-family: sans-serif;
   padding-bottom: 15px;
+  padding: 30px;
 }
 
 .text {
@@ -83,5 +84,22 @@
 
 .parte3 {
   color: #00a78e;
+
   padding: 80px 80px;
+}
+
+.rodape {
+  background-color: #293651;
+  color: #828a9c;
+  padding: 80px 80px;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.rodape a {
+  color: #828a9c;
+}
+
+.rodape a:hover {
+  color: #fff;
 }
