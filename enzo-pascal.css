@@ -1,11 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
 /* 1 - Seletor universal */
-* {
-  font-family: sans-serif;
-}
 
 * {
   margin: 0;
   padding: 0;
+  font-family: "Monteserrat", "sans-serif";
 }
 
 .parte1 {
@@ -21,13 +21,12 @@
 /* 2 - Seletor por elementos */
 .title {
   font-size: 48px;
-  font-weight: bold;
+  font-weight: 900;
   color: #293651;
 }
 .subtitle1 {
   font-size: 26px;
   color: #00a78e;
-  font-family: sans-serif;
   letter-spacing: 2pt;
   padding-bottom: 20px;
 }
@@ -48,13 +47,11 @@
   font-size: 22px;
   font-weight: 300;
   letter-spacing: 2pt;
-  font-family: sans-serif;
   padding-bottom: 15px;
   padding: 30px;
 }
 
 .text {
-  font-family: sans-serif;
   color: #76778c;
   font-size: 20px;
   letter-spacing: 1.2pt;
@@ -67,8 +64,8 @@
   border-radius: 5px;
   padding: 20px 40px;
   text-decoration: none;
-  font-family: sans-serif;
   color: white;
+  font-weight: 500;
 }
 
 .center {
@@ -92,7 +89,6 @@
   background-color: #293651;
   color: #828a9c;
   padding: 80px 80px;
-  font-family: sans-serif;
   font-size: 14px;
 }
 
