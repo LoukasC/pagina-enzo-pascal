@@ -39,3 +39,9 @@ Confira o arquivo enzo-pascal.html lista não ordenada (ul)
 Confira o arquivo enzo-pascal.css com classe 'parte2'para alterar cor de fundo (background-color)
 
 [Aula aquarela de cores com CSS: Revelando o sistema RGB e hexadecimal] (https://l.dev.pro.br/cores-no-css)
+
+# Passo 7: AUla incorporando barras de progresso com HTML e CSS
+Confira o arquivo enzo-pascal.html tag progress
+Confira o arquivo enzo-pascal.css com classe barra-progresso
+
+[Aula incorporando barras de progresso com HTML e CSS] (https://l.dev.pro.br/barra-de-progresso)
